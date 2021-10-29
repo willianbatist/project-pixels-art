@@ -6,7 +6,7 @@ Este repositório contem o Project Pixel Art que reúne o aprendizado desenvolvi
 
 # Projeto Pixel Art
 ### Resultado obtido:
-![](./projeto-pixel-art.gif)
+![](./project-pixels-art/projeto-pixel-art.gif)
 
 #### Habilidades exigidas:
 
