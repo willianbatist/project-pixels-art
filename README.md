@@ -1,7 +1,5 @@
 ### Observação
 
-Apenas os arquivos **script.js**, **index.html** e **style.css**, são partes do meu projeto. Outros itens do repositório foram criados pela **TRYBE**, para o funcionamento do avaliador que confere se os requisitos foram cumpridos.
-
 Este repositório contem o Project Pixel Art que reúne o aprendizado desenvolvido por _[Willian Alves Batista](https://www.linkedin.com/in/willian-alves-batista-60aa6a180/)_ enquanto estudante da [Trybe](https://www.betrybe.com/) :rocket:
 
 # Projeto Pixel Art
