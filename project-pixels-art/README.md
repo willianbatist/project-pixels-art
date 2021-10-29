@@ -8,11 +8,6 @@ Este repositório contem o Project Pixel Art que reúne o aprendizado desenvolvi
 ### Resultado obtido:
 ![](./projeto-pixel-art.gif)
 
-#### Habilidades exigidas:
-
-  - Manipular o DOM.
-  - Manipular o Javascript (funções, loop e eventos).
-
 ### Trybe
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
